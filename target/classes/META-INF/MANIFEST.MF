@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Built-By: mansoorparambath
+Class-Path: dependency-jars/spark-core-2.8.0.jar dependency-jars/slf4j
+ -api-1.7.25.jar dependency-jars/jetty-server-9.4.12.v20180830.jar dep
+ endency-jars/javax.servlet-api-3.1.0.jar dependency-jars/jetty-http-9
+ .4.12.v20180830.jar dependency-jars/jetty-util-9.4.12.v20180830.jar d
+ ependency-jars/jetty-io-9.4.12.v20180830.jar dependency-jars/jetty-we
+ bapp-9.4.12.v20180830.jar dependency-jars/jetty-xml-9.4.12.v20180830.
+ jar dependency-jars/jetty-servlet-9.4.12.v20180830.jar dependency-jar
+ s/jetty-security-9.4.12.v20180830.jar dependency-jars/websocket-serve
+ r-9.4.12.v20180830.jar dependency-jars/websocket-common-9.4.12.v20180
+ 830.jar dependency-jars/websocket-client-9.4.12.v20180830.jar depende
+ ncy-jars/jetty-client-9.4.12.v20180830.jar dependency-jars/websocket-
+ servlet-9.4.12.v20180830.jar dependency-jars/websocket-api-9.4.12.v20
+ 180830.jar dependency-jars/gson-2.8.5.jar dependency-jars/log4j-1.2.1
+ 7.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Main-Class: com.virtusa.metricserver.App
+
